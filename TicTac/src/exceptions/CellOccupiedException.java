@@ -6,5 +6,6 @@ public class CellOccupiedException extends GameExceptions{
 	}
 	public CellOccupiedException(String s) {
 		super(s);
+		//hhhhhhhhhhhh
 	}
 }
